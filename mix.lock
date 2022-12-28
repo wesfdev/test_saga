@@ -1,0 +1,3 @@
+%{
+  "sage": {:hex, :sage, "0.6.1", "675661e98f2c8bcd260ffdefe2e752e75972aaabe8c48c50b9b8a70006b77f2d", [:mix], [], "hexpm", "6a743ac0921ecfe3c52a6ad164099a40f72420690fe5e6af023491f48bb94daf"},
+}
